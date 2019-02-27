@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa52ec49-5c1a-45a6-b2b7-870bb41da373" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ports.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ports.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-one.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service-one.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../service-tree/target/" />
@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/service-one.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -48,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/ports.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -62,9 +62,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ports-develop.properties" />
-        <option value="$PROJECT_DIR$/ports.properties" />
         <option value="$PROJECT_DIR$/service-one/ports.properties" />
         <option value="$PROJECT_DIR$/service-one/application.properties" />
+        <option value="$PROJECT_DIR$/ports.properties" />
         <option value="$PROJECT_DIR$/service-one.properties" />
       </list>
     </option>
@@ -102,7 +102,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551269619642" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551270560334" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -139,7 +139,7 @@
     <frame x="1358" y="79" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -153,7 +153,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32850242" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" x="0" y="0" width="295" height="554" id="Documentation" sideWeight="0.50119907" side_tool="true" visible="true" weight="0.32980332" />
@@ -182,13 +182,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ports.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service-one/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -203,10 +196,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ports.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/service-one.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
